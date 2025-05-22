@@ -25,7 +25,7 @@
 
 ## Dashboard Preview
 
-> ![Dashboard Preview](dashboard/Ad Performance Dashboard.png)
+> ![Dashboard Preview](dashboard/multichannel-ad-performance-dashboard.png)
 
 ---
 
