@@ -25,7 +25,7 @@
 
 ## Dashboard Preview
 
-> ![Dashboard Preview](dashboard/screenshots/tableau_dashboard_main.png)
+> ![Dashboard Preview](dashboard/Ad Performance Dashboard.png)
 
 ---
 
