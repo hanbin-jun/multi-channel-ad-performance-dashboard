@@ -27,9 +27,6 @@
 
 > ![Dashboard Preview](dashboard/screenshots/tableau_dashboard_main.png)
 
-**Interactive Tableau Dashboard**:  
-[🔗 View on Tableau Public](#) *(Link will be updated upon publication)*
-
 ---
 
 ## Key Insights
