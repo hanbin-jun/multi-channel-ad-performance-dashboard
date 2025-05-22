@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Consolidate and clean raw advertising data from three different platforms
 - Calculate key performance indicators (KPIs): CTR, CPC, CVR, CPA, ROAS
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 KPIs Defined
+## KPIs Defined
 
 | KPI  | Formula |
 |------|---------|
@@ -23,7 +23,7 @@
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
 > ![Dashboard Preview](dashboard/screenshots/tableau_dashboard_main.png)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Google Ads** had the highest ROAS but also a relatively high CPA
 - **Meta Ads** showed high CTR but low conversion performance
@@ -40,14 +40,8 @@
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Excel**: KPI Calculation, data transformation
 - **Tableau**: Interactive dashboard & data visualization
 - *(Optional: Python for automated data prep)*
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
